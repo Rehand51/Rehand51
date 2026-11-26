@@ -89,13 +89,13 @@ Programming Languages
   <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" height="40" /></a>
 </p>
  
-## 🎧 Take a look what I just listened
+### 🎧 Take a look what I just listened
 
 <p align="center">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uuflqg5vp5t3443ou2zmq3lrmu&theme=dark&count=2" alt="Recently played Spotify tracks" width="400" />
 </p>
 
-## 📊 GitHub Statistics
+### 📊 My Stats On GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rehand51&show_icons=true&locale=en&theme=transparent" alt="GitHub statistics" />
