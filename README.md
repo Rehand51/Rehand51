@@ -4,7 +4,7 @@
 ### Or you can call me KartoffelSalat, or ThemBeLex, eitherway those are my game usn.
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif"  />
+  <img data-importer="image" height="256" src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif"  />
 </div>
 
 - 🔭 I'm currently working on **Kakuru Reworked, Developing my own server**
