@@ -7,6 +7,8 @@
   <img data-importer="image" height="200" src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif"  />
 </div>
 
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rehand51&label=Profile views&color=0e75b6&style=flat" alt="Rehand51" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehand51" alt="Rehand51" /></a> </p>
@@ -47,6 +49,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rehand51&show_icons=true&locale=en" alt="Rehand51" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehand51&" alt="Rehand51" /></p>
+
+###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rehand51/Rehand51/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
