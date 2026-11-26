@@ -38,7 +38,7 @@
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uuflqg5vp5t3443ou2zmq3lrmu&amp;theme=dark&amp;count=2" alt="Spotify recently played" width="400" />
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehand51&show_icons=true&locale=en&layout=compact" alt="Rehand51" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehand51&show_icons=true&locale=en&layout=compact" alt="Rehand51" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rehand51&show_icons=true&locale=en" alt="Rehand51" /></p>
 
