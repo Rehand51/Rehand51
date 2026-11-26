@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Muhammad Raihan
 
-### Or you can call me KartoffelSalat, or ThemBeLex, eitherway those are my game usn.
+### Or you can call me KartoffelSalat, or ThemBeLex.
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="512" src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif"  />
