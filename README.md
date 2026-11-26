@@ -1,45 +1,105 @@
-
 # Hi 👋, I'm Muhammad Raihan
 
-### Or you can call me KartoffelSalat, or ThemBeLex.
+Also known as KartoffelSalat or ThemBeLex
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="1024" src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif"  />
-</div>
+<div align="center">
+  <img src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif" width="300" alt="Dexter Morgan saying hello" />
+</div>I'm a developer who enjoys exploring different areas of technology, building things, and figuring out how stuff works.
 
-- 🔭 I'm currently working on **Kakuru Reworked, LinuxTnU, and Developing my own homelab server**
+Currently, I'm focused on software development, Linux, and building my own homelab.
 
-- 🌱 I'm currently learning **Rust, C, Python, Local Ai, Network Infrastructure.**
+## 🚀 What I'm Working On
 
-- 👯 I'm looking to collaborate on **Open source project that focused on the things I currently learning, and maybe expanding into other topics in future**
+- 🔭 Kakuru Reworked — Improving and developing my own mathematics application.
+- 🐧 LinuxTnU — Exploring and developing Linux-related projects.
+- 🖥️ My Homelab — Building and managing my own server for hosting, development, and experimentation.
 
-- 🤝 I'm looking for help with **Learning everything I need to know that you know.**
+## 🌱 What I'm Learning
 
-- 💬 Ask me about **My progress on my homelab server.**
+Currently exploring:
 
-- 📫 How to reach me **You can go ahead and contact me via raihanmuaret80@gmail.com**
+- Rust, C, and Python
+- Local AI and machine learning
+- Linux and system administration
+- Networking and infrastructure
 
-- ⚡ Fun fact **I have ram.**
+I'm always looking for opportunities to learn something new and expand my knowledge.
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Open to Collaboration
+
+I'm interested in collaborating on open-source projects related to the technologies I'm currently learning, as well as exploring new areas in the future.
+
+If you have something interesting going on, feel free to reach out!
+
+## 💬 Ask Me About
+
+- My homelab and server projects
+- Linux and self-hosting
+- My current development projects
+- Anything I'm currently learning
+
+## 📫 Connect With Me
+
+- 📧 Email: "raihanmuaret80@gmail.com" (mailto:raihanmuaret80@gmail.com)
+- 🐙 GitHub: "@Rehand51" (https://github.com/Rehand51)
+- 💼 LinkedIn: "Muhammad Raihan" (https://linkedin.com/in/Muhammad%20Raihan)
+- 📸 Instagram: "@emrehand_" (https://instagram.com/emrehand_)
+- ▶️ YouTube: "@rehand51" (https://youtube.com/@rehand51)
+
+## 🛠️ Languages and Tools
+
+Programming Languages
+
 <p align="left">
-<a href="https://github.com/Rehand51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rehand51" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Muhammad Raihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Raihan" height="30" width="40" /></a>
-<a href="https://instagram.com/@emrehand_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@emrehand_" height="30" width="40" /></a>
-<a href="https://youtube.com/@rehand51?si=bkMvGLnqThbarS6J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Rehand51" height="30" width="40" /></a>
-</p>
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="40" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" /></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C" height="40" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" /></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" height="40" /></a>
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" /></a>
+</p>Development and Infrastructure
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" /></a>
+  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama" alt="Ollama" height="40" /></a>
+  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" height="40" /></a>
+  <a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" height="40" /></a>
+</p>Other Technologies and Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uuflqg5vp5t3443ou2zmq3lrmu&amp;theme=dark&amp;count=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uuflqg5vp5t3443ou2zmq3lrmu&amp;theme=light&amp;count=2" />
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uuflqg5vp5t3443ou2zmq3lrmu&amp;theme=dark&amp;count=2" alt="Spotify recently played" width="400" />
-</picture>
+<p align="left">
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="40" /></a>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="40" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="40" /></a>
+  <a href="https://www.blender.org/"><img src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="40" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" /></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" height="40" /></a>
+  <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" height="40" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" height="40" /></a>
+  <a href="https://www.oracle.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="40" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" height="40" /></a>
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="40" /></a>
+  <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" height="40" /></a>
+</p>🎧 Recently Played on Spotify
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehand51&show_icons=true&locale=en&layout=compact" alt="Rehand51" /></p>
+<p align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31uuflqg5vp5t3443ou2zmq3lrmu&theme=dark&count=2" alt="Recently played Spotify tracks" width="400" />
+</p>📊 GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rehand51&show_icons=true&locale=en" alt="Rehand51" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehand51&show_icons=true&locale=en&theme=transparent" alt="GitHub statistics" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehand51&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Most used programming languages" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehand51&theme=transparent" alt="GitHub contribution streak" />
+</p>---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rehand51&" alt="Rehand51" /></p>
+###⚡ Fun fact: I have RAM.
