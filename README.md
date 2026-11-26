@@ -7,7 +7,7 @@
   <img data-importer="image" height="512" src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif"  />
 </div>
 
-- 🔭 I'm currently working on **Kakuru Reworked, Developing my own server**
+- 🔭 I'm currently working on **Kakuru Reworked, LinuxTnU, and Developing my own homelab server**
 
 - 🌱 I'm currently learning **Rust, C, Python, Local Ai, Network Infrastructure.**
 
