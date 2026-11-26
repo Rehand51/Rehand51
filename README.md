@@ -7,12 +7,6 @@
   <img data-importer="image" height="200" src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif"  />
 </div>
 
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rehand51&label=Profile views&color=0e75b6&style=flat" alt="Rehand51" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehand51" alt="Rehand51" /></a> </p>
-
 - 🔭 I'm currently working on **Kakuru Reworked, Developing my own server**
 
 - 🌱 I'm currently learning **Rust, C, Python, Local Ai, Network Infrastructure.**
@@ -52,7 +46,7 @@
 
 ###
 
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rehand51/Rehand51/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rehand51/Rehand51/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rehand51/Rehand51/pacman-output/pacman-contribution-graph.svg?game=pacman">
