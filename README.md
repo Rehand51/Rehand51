@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **My progress on my homelab server.**
 
-- 📫 How to reach me ** you can go ahead and contact me via raihanmuaret80@gmail.com**
+- 📫 How to reach me **You can go ahead and contact me via raihanmuaret80@gmail.com**
 
 - ⚡ Fun fact **I have ram.**
 
