@@ -26,7 +26,7 @@
 <a href="https://github.com/Rehand51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rehand51" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Muhammad Raihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Raihan" height="30" width="40" /></a>
 <a href="https://instagram.com/@emrehand_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@emrehand_" height="30" width="40" /></a>
-<a href="https://youtube.com/Rehand51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TheRehandBeLex" height="30" width="40" /></a>
+<a href="https://youtube.com/Rehand51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Rehand51" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
