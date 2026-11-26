@@ -102,4 +102,4 @@ Programming Languages
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehand51&theme=transparent" alt="GitHub contribution streak" />
 </p>---
 
-###⚡ Fun fact: I have RAM.
+# ⚡ Fun fact: I have RAM.
