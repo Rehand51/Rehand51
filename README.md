@@ -42,7 +42,7 @@ If you have something interesting going on, feel free to reach out!
 
 - 📧 Email: "raihanmuaret80@gmail.com" (mailto:raihanmuaret80@gmail.com)
 - 🐙 GitHub: "@Rehand51" (https://github.com/Rehand51)
-- 💼 LinkedIn: "Muhammad Raihan" (https://linkedin.com/in/Muhammad%20Raihan)
+- 💼 LinkedIn: "Muhammad Raihan" (https://www.linkedin.com/in/muhammad-raihan-2641483b7/)
 - 📸 Instagram: "@emrehand_" (https://instagram.com/emrehand_)
 - ▶️ YouTube: "@rehand51" (https://youtube.com/@rehand51)
 
