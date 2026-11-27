@@ -3,7 +3,7 @@
 Also known as KartoffelSalat or ThemBeLex
 
 <div align="center">
-  <img src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif" alt="Dexter Morgan saying hello" />
+  <img src="https://media.tenor.com/M7aEC35W_ikAAAAM/dexter-morgan-hello-dexter-morgan.gif" width="300" alt="Dexter Morgan saying hello" />
 </div>I'm a developer who enjoys exploring different areas of technology, building things, and figuring out how stuff works.
 
 Currently, I'm focused on software development, Linux, and building my own homelab.
