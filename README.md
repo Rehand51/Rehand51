@@ -10,9 +10,8 @@ Currently, I'm focused on software development, Linux, and building my own homel
 
 ## 🚀 What I'm Working On
 
-- 🔭 Kakuru Reworked — Improving and developing my own mathematics application.
-- 🐧 LinuxTnU — Exploring and developing Linux-related projects.
-- 🖥️ My Homelab — Building and managing my own server for hosting, development, and experimentation.
+- 🔭 Kakuru — A mathematics application that helps to calculate a series of complex calulation.
+- 🐧 LinuxTnU — An Application that focused on helping users to manage, install apps in Linux.
 
 ## 🌱 What I'm Learning
 
